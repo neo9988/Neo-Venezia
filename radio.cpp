@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-	cout << "You are... a radio star"<< endl;
+	cout << "You are... a radio star."<< endl;
 	return 0;
 
 }
